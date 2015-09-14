@@ -1,0 +1,15 @@
+﻿ "Symbol";"Value";"Unit";
+"REFERENCE";"096H06410";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"FATH";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"30-24092014-104403";"";
+"MATERIAL";"Zinc platet steel";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Hammer Nut Slot 6, Steel/Stainless Steel";"";
+"TraceParts.InstanceId";"30-24092014-1044037X4DBVU1Q2WM6F2C19GU8LF7J";"";
+"TraceParts.PartTitle";"Hammer Nut Slot 6, Steel/Stainless Steel";"";
+"NOTE";"Color: Black";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"FATH:/F_FATH/FATH.3/30-24092014-104403";"";
