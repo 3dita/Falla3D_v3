@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"MR105";"";
+"TraceParts.PartVersion";"1.6.2";"";
+"SUPPLIER";"NSK";"";
+"MASS";"0.95";"g";
+"TraceParts.PartNumber";"32-12102010-114776";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Single row ball bearings - Miniature - Open - MR105";"";
+"TraceParts.InstanceId";"32-12102010-114776AA10NWYFPVDCJ8VO5XGRBRQPK";"";
+"TraceParts.PartTitle";"Single row ball bearings - Miniature - Open";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"NSK:/F_NSK/NSK.010/NSK.010.010/32-12102010-114776";"";
+"TraceParts.PartStatus";"Published";"";
