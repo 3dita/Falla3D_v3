@@ -119,6 +119,7 @@ Other
 	•	25 ties/band 100mm
 
 =======
+<<<<<<< HEAD
 ﻿Official BOM Fa)(a 3D
 dimension 40x35x30
 dimension max printing 19x16x16
@@ -238,4 +239,125 @@ Other
 	•	1 plug shuko 
 	•	25 ties/band 100mm
 
+=======
+﻿Official BOM Fa)(a 3D
+dimension 40x35x30
+dimension max printing 19x16x16
+(www.falla3d.com)
+
+
+Printed parts:
+>PLAorABS xxg xxh
+>ABS xxg xxh
+
+LaserCut parts:
+Required:
+plate+angle.dxf
+.dxf
+.dxf
+- Optional:
+.dxf
+.dxf
+.dxf
+.dxf
+
+
+20x20 Profile
+	•	12x300mm alluminium profile 20x20 type B   (6mm)
+
+Bosch angle connection
+	•	16x18mm for profile 20x20 
+
+Belts and pulley
+	•	2800 mm T2 open belt 
+	•	1380 mm T2 closed belt
+	•	7 T2 pulley 20 teth
+igus guide
+		Z AXIS
+	•	4x220mm NK_02_17    -RAIL_PROFILE
+	•	4x NW_02_17         -SLIDER
+		Y AXIS
+	•	2x300mm NS_01_27    -RAIL_PROFILE
+	•	2x NW_02_17_80      -SLIDER
+		X AXIS
+	•	2x270mm NS_01_27    -RAIL_PROFILE
+	•	1x NW_02_17_40      -SLIDER
+
+Bearings
+	•	12x 608 bearings
+	•	4x 624 ZZ / 4 13 5 mm bearings
+
+
+Screw,nuts...
+
+	•	4x260mm m8 screw bars
+	•	24x m8 nuts (half nuts for nice design)
+	•	4x M8x35 socket button head cap screw
+
+	•	10x M3x12 socket head cap screw
+	•	12x M3x6 socket button head cap screw  
+	•	8x  M3x35 socket head cap screw
+	•	12x M3x20 socket head cap screw
+	•	10x M3x40 socket head cap screw
+	•	4x M3x16 socket head cap screw
+	•	4x M3x45 socket head cap screw
+	•	4x M3x50 socket head cap screw
+	•	25x M3 nut
+	•	10 T-nut m3
+
+	•	6x M4x16 socket button head cap screw
+	•	4x M4x12 socket button head cap screw
+	•	50x M4x8 socket button head cap screw
+	•	5x M4x30 socket head cap screw
+	•	8x M4 nut
+	•	25x M4x10 socket button head cap screw
+	•	100 T-nut m4
+	•	4x M4x6 socket button head cap screw
+	•	2x M4x40 socket head cap screw
+
+Motor
+	•	5 NEMA 17 - +50 N/cm 
+
+Electronics
+	•	1 Ramps 1.4 + fan 40x40
+	•	1 power supply +25a
+	•	1 heated bed 
+	•	1 mini switch (on/off)
+	•	1 IEC port
+
+Magnets
+	•	14 Neodimiun magnets  50 x 3 x 5 mm, NdFeB 
+
+Extruder
+	⁃	Hot end kit
+	•	Polyolefin (black) heatshrink
+	•	PTFE heatshrink (clear)
+	•	100k Thermistor
+	•	Bowden start
+	•	Bowden end
+	•	Heater block
+	•	0.5mm One piece nozzle
+	•	PTFE liner
+	•	Tapered nut
+	•	Heatsink block
+	•	Double coil spring washers
+	•	Fan + heatsink
+	•	Cartridge Heater
+	•	0.1" crimp terminals
+	•	3031 crimp terminals
+	•	2x3-way female housing
+	•	Cap Screws
+	•	4mm OD 2mm ID PTFE tube 40cm
+	•	1 drive gear diameter 11mm
+
+Endstop
+
+	•	3 mechanic endstop 12,8mm X 6,5mm X 5,8mm
+
+Other
+	•	1 spring 35mm
+	•	1 plug shuko 
+	•	25 ties/band 100mm
+
+>>>>>>> origin/master
 >>>>>>> origin/master
