@@ -1,0 +1,18 @@
+shader "top_name"  "top_mtl"  
+(
+	 "num_cols"  1 ,
+	 "illum"  "model_17.p2a" 
+)
+
+material "iii"  "swt_main_phen"  
+(
+	 "col1"  1 1 1 ,
+	 "pattern_scale"  0 ,
+	 "specular_factor"  1 ,
+	 "specular_color"  1 1 1 ,
+	 "exponent"  18.664 ,
+	 "mtl_ior"  1.52 ,
+	 "transparency"  0.60 ,
+	 "sw_shader" clearglass
+)
+end material 
